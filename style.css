@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
     text-align:center;
-    background-color:hsl(337, 74%, 77%);
+    background-color:hsl(114, 58%, 83%);
 }
 #msg{
     color:red;
@@ -37,7 +37,7 @@
     width:20vmin;
     border-radius: 25%;
     box-shadow: 10px 5px 5px hwb(317 54% 30%);
-    background-color: hsl(189, 100%, 59%);
+    background-color: hsl(350, 52%, 80%);
     font-size:5vmin;
     color:#b91127;
     border:none;
